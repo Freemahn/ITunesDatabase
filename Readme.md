@@ -42,3 +42,12 @@ Wrong command 0. Use list to see the list of all commands
 Enter command("help" for list of all commands)  
 `exit`
 Bye
+
+
+
+
+You can login as admin:admin or user1:password /user2:password  
+
+admin can add or remove songs and do other stuff as user  
+
+users can listen, sort and list all songs  
